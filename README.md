@@ -1,3 +1,3 @@
-"# Build-X-Algorithm" 
-"# Build-X-Android" 
-"# Build-X-Android" 
+# Build-X-Algorithm
+
+Tech Society 10 week Algorithm workshop
